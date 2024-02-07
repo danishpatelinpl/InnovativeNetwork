@@ -1,0 +1,8 @@
+<svg id="Component_109_1" data-name="Component 109 – 1" xmlns="http://www.w3.org/2000/svg" width="46" height="63" viewBox="0 0 46 63">
+  <rect id="Rectangle_77" data-name="Rectangle 77" width="16" height="16" rx="1" transform="translate(46 63) rotate(180)" fill="#1d6bb3"/>
+  <rect id="Rectangle_78" data-name="Rectangle 78" width="16" height="16" rx="1" transform="translate(46 39) rotate(180)" fill="#1d6bb3"/>
+  <path id="Path_12" data-name="Path 12" d="M1,0H15a1,1,0,0,1,1,1V15a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(46 16) rotate(180)" fill="#ef5a2a"/>
+  <rect id="Rectangle_80" data-name="Rectangle 80" width="16" height="16" rx="1" transform="translate(16 16) rotate(180)" fill="#1d6bb3"/>
+  <line id="Line_4" data-name="Line 4" y2="8" transform="translate(38 47) rotate(180)" fill="none" stroke="#264797" stroke-width="1"/>
+  <line id="Line_6" data-name="Line 6" x2="14" transform="translate(30 7) rotate(180)" fill="none" stroke="#264797" stroke-width="1"/>
+</svg>

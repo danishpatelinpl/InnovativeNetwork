@@ -1,0 +1,12 @@
+<svg id="Component_82_1" data-name="Component 82 – 1" xmlns="http://www.w3.org/2000/svg" width="50" height="51" viewBox="0 0 50 51">
+  <g id="Group_31" data-name="Group 31" transform="translate(-706 -2305)">
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="13" height="21" rx="0.5" transform="translate(750 2356) rotate(180)" fill="#1d6bb3"/>
+    <path id="Rectangle_78" data-name="Rectangle 78" d="M0,0H12a1,1,0,0,1,1,1V18a4,4,0,0,1-4,4H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z" transform="translate(756 2341) rotate(180)" fill="#1d6bb3"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="10" height="10" rx="0.5" transform="translate(745 2315) rotate(180)" fill="#ef5a2a"/>
+  </g>
+  <g id="Group_30" data-name="Group 30" transform="translate(-706 -2305)">
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="12" height="21" rx="0.5" transform="translate(721 2356) rotate(180)" fill="#1d6bb3"/>
+    <path id="Rectangle_81" data-name="Rectangle 81" d="M0,0H12a1,1,0,0,1,1,1V18a4,4,0,0,1-4,4H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z" transform="translate(727 2341) rotate(180)" fill="#1d6bb3"/>
+    <path id="Path_13" data-name="Path 13" d="M.5,0h9a.5.5,0,0,1,.5.5v9a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,9.5V.5A.5.5,0,0,1,.5,0Z" transform="translate(716 2315) rotate(180)" fill="#ef5a2a"/>
+  </g>
+</svg>
